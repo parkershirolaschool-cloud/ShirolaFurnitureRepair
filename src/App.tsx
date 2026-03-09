@@ -81,7 +81,7 @@ function App() {
             <div className="relative">
               <div className="aspect-square bg-gradient-to-br from-amber-100 to-amber-200 rounded-3xl shadow-2xl overflow-hidden">
                 <div className="w-full h-full flex items-center justify-center">
-                  <img src={`${BASE}/shirola_furnitre_repair.png`} alt="Shirola's Furniture Repair" className="w-90 h-90 object-contain" />
+                  <img src={`${BASE}/shirola_furnitre_repair.png`} alt="Shirola's Furniture Repair" className="w-80 h-80 object-contain" />
                 </div>
               </div>
               <div className="absolute -bottom-6 -left-6 bg-white p-6 rounded-2xl shadow-xl max-w-xs border-2 border-sage-600 flex items-center space-x-4">
@@ -231,7 +231,7 @@ function App() {
             <div className="relative">
               <div className="aspect-[4/3] bg-gradient-to-br from-brown-300 to-amber-300 rounded-3xl shadow-2xl overflow-hidden">
                 <div className="w-full h-full flex items-center justify-center">
-                  <img src={`${BASE}/shirola_furnitre_repair.png`} alt="Shirola's" className="w-90 h-90 object-contain" />
+                  <img src={`${BASE}/shirola_furnitre_repair.png`} alt="Shirola's" className="w-80 h-80 object-contain" />
                 </div>
               </div>
             </div>
